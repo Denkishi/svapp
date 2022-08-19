@@ -180,8 +180,14 @@
       "type":[
          "???"
       ],
-      "image":{
-         "sprite":"/root"
+      "base":{
+         "height":"???",
+         "weight":"???",
+         "ability":"???",
+         "category":"???",
+         "image":{
+            "sprite":"/root"
+         }
       }
    },
    {
@@ -193,8 +199,14 @@
       "type":[
          "???"
       ],
-      "image":{
-         "sprite":"/root"
+      "base":{
+         "height":"???",
+         "weight":"???",
+         "ability":"???",
+         "category":"???",
+         "image":{
+            "sprite":"/root"
+         }
       }
    }
    ]
