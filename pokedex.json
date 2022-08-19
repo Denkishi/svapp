@@ -1,5 +1,4 @@
-[
-   {
+  {
       "id":1,
       "name":{
          "english":"Sprigatito"
@@ -198,4 +197,3 @@
          "sprite":"/root"
       }
    }
-]
