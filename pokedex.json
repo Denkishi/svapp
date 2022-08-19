@@ -8,8 +8,8 @@
       ],
       "desc":"Capricious and attention seeking, it may sulk if it sees its Trainer giving attention to a Pokémon other than itself.",
       "base":{
-         "height":1.4,
-         "weight":9,
+         "height":"1.4",
+         "weight":"9",
          "ability":"Overgrow",
          "category":"Grass Cat Pokémon",
          "image":{
