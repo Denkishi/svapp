@@ -1,7 +1,7 @@
 [{
     "id": 1,
     "name": {
-      "english": "Sprigatito",
+      "english": "Sprigatito"
     },
     "type": [
       "Grass"
@@ -25,7 +25,7 @@
   {
       "id": 2,
     "name": {
-      "english": "Fuecoco",
+      "english": "Fuecoco"
     },
     "type": [
       "Fire"
@@ -50,7 +50,7 @@
   {
       "id": 3,
     "name": {
-      "english": "Quaxly",
+      "english": "Quaxly"
     },
     "type": [
       "Water"
@@ -77,7 +77,7 @@
   {
       "id": 4,
     "name": {
-      "english": "Cetitan",
+      "english": "Cetitan"
     },
     "type": [
       "Ice"
@@ -104,7 +104,7 @@
   {
       "id": 5,
     "name": {
-      "english": "Fidough",
+      "english": "Fidough"
     },
     "type": [
       "Fairy"
@@ -134,7 +134,7 @@
   {
       "id": 6,
     "name": {
-      "english": "Lechonk",
+      "english": "Lechonk"
     },
     "type": [
       "Normal"
@@ -160,7 +160,7 @@
     {
       "id": 7,
     "name": {
-      "english": "Paldean Wooper",
+      "english": "Paldean Wooper"
     },
     "type": [
       "Poison",
@@ -190,7 +190,7 @@
   {
       "id": 8,
     "name": {
-      "english": "Pawmi",
+      "english": "Pawmi"
     },
     "type": [
       "Electric"
@@ -215,7 +215,7 @@
     {
       "id": 9,
     "name": {
-      "english": "Smoliv",
+      "english": "Smoliv"
     },
     "type": [
       "Grass",
@@ -241,7 +241,7 @@
     {
       "id": 10,
     "name": {
-      "english": "Koraidon",
+      "english": "Koraidon"
     },
 	
 			"desc": "Koraidon is a Legendary Pokémon you can meet in Pokémon Scarlet, and Miraidon is a Legendary Pokémon you can meet in Pokémon Violet. These two Pokémon are said to have powers that far surpass those of other Pokémon, but details about Koraidon and Miraidon are still shrouded in mystery.",
@@ -262,7 +262,7 @@
     {
       "id": 11,
     "name": {
-      "english": "Miraidon",
+      "english": "Miraidon"
     },
 	
 				"desc": "Koraidon is a Legendary Pokémon you can meet in Pokémon Scarlet, and Miraidon is a Legendary Pokémon you can meet in Pokémon Violet. These two Pokémon are said to have powers that far surpass those of other Pokémon, but details about Koraidon and Miraidon are still shrouded in mystery.",
