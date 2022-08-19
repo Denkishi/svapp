@@ -1,285 +1,201 @@
-[{
-		"id": 1,
-		"name": {
-			"english": "Sprigatito"
-		},
-		"type": [
-			"Grass"
-		],
-
-		"desc": "Capricious and attention seeking, it may sulk if it sees its Trainer giving attention to a Pokémon other than itself.",
-
-		"base": {
-			"height": 1.4,
-			"weight": 9,
-			"ability": "Overgrow",
-			"category": "Grass Cat Pokémon",
-
-			"image": {
-				"sprite": "/root"
-			}
-
-		}
-	},
-
-	{
-		"id": 2,
-		"name": {
-			"english": "Fuecoco"
-		},
-		"type": [
-			"Fire"
-		],
-
-		"desc": "Fuecoco is laid-back and does things at its own pace. It loves to eat, and it will sprint toward any food it finds with a glint in its eye.",
-
-		"base": {
-			"height": 1.4,
-			"weight": 21.6,
-			"ability": "Blaze",
-			"category": "Fire Croc Pokémon",
-
-			"image": {
-				"sprite": "/root"
-			}
-
-		}
-	},
-
-
-	{
-		"id": 3,
-		"name": {
-			"english": "Quaxly"
-		},
-		"type": [
-			"Water"
-		],
-
-		"desc": "This serious-mannered Pokémon will follow in its Trainer’s wake. It’s tidy, and it especially dislikes getting its head dirty.",
-
-		"base": {
-			"height": 1.8,
-			"weight": 13.4,
-			"ability": "Torrent",
-			"category": "Duckling Pokémon",
-
-			"image": {
-				"sprite": "/root"
-			}
-
-		}
-	},
-
-
-
-
-	{
-		"id": 4,
-		"name": {
-			"english": "Cetitan"
-		},
-		"type": [
-			"Ice"
-		],
-
-		"desc": "Cetitan need to have tough muscles to be able to support their immense bodies, and physical attacks using their bodies have incredible power. They also migrate around the snowy regions, protected by a thick layer of subcutaneous fat.",
-
-		"base": {
-			"height": 14.9,
-			"weight": 1543.2,
-			"ability": "Thick Fat / Slush Rush",
-			"category": "Terra Whale Pokémon​",
-
-			"image": {
-				"sprite": "/root"
-			}
-
-		}
-	},
-
-
-
-
-	{
-		"id": 5,
-		"name": {
-			"english": "Fidough"
-		},
-		"type": [
-			"Fairy"
-		],
-
-
-		"desc": "Fidough’s moist, smooth skin has elastic qualities and is both firm and soft at the same time. When these Pokémon become excited, they intimidate their opponents by puffing up their bodies to appear bigger.​",
-
-
-		"base": {
-			"height": 1,
-			"weight": 24,
-			"ability": "Own Tempo",
-			"category": "Puppy Pokémon​",
-
-			"image": {
-				"sprite": "/root"
-			}
-
-		}
-	},
-
-
-
-
-
-	{
-		"id": 6,
-		"name": {
-			"english": "Lechonk"
-		},
-		"type": [
-			"Normal"
-		],
-
-		"desc": "Lechonk is one of the Pokémon used by Nemona, your friend.",
-
-		"base": {
-			"height": 1.8,
-			"weight": 22.5,
-			"ability": "Aroma Veil / Gluttony",
-			"category": "Hog Pokémon​",
-
-			"image": {
-				"sprite": "/root"
-			}
-
-		}
-	},
-
-
-
-	{
-		"id": 7,
-		"name": {
-			"english": "Paldean Wooper"
-		},
-		"type": [
-			"Poison",
-			"Ground"
-		],
-
-		"desc": "In ancient times, Wooper lived underwater in the Paldea region. But it seems after losing in a struggle for territory, they began living in bogs on land.​To keep from drying out while living on land, they began to cover their bodies with a poisonous film.",
-
-
-		"base": {
-			"height": 1.4,
-			"weight": 24.3,
-			"ability": "Poison Point / Water Absorb",
-			"category": "Poison Fish Pokémon​",
-
-			"image": {
-				"sprite": "/root"
-			}
-
-		}
-	},
-
-
-
-
-
-	{
-		"id": 8,
-		"name": {
-			"english": "Pawmi"
-		},
-		"type": [
-			"Electric"
-		],
-
-		"desc": "Pawmi is one of the Pokémon used by Nemona, your friend.",
-
-		"base": {
-			"height": 1,
-			"weight": 5.5,
-			"ability": "Static / Natural Cure",
-			"category": "Mouse Pokémon​",
-
-			"image": {
-				"sprite": "/root"
-			}
-
-		}
-	},
-
-
-	{
-		"id": 9,
-		"name": {
-			"english": "Smoliv"
-		},
-		"type": [
-			"Grass",
-			"Normal"
-		],
-
-		"desc": "Smoliv is one of the Pokémon used by Nemona, your friend.",
-
-		"base": {
-			"height": 1,
-			"weight": 14.3,
-			"ability": "Early Bird",
-			"category": "Olive Pokémon​",
-
-			"image": {
-				"sprite": "/root"
-			}
-
-		}
-	},
-
-
-	{
-		"id": 10,
-		"name": {
-			"english": "Koraidon"
-		},
-
-		"desc": "Koraidon is a Legendary Pokémon you can meet in Pokémon Scarlet, and Miraidon is a Legendary Pokémon you can meet in Pokémon Violet. These two Pokémon are said to have powers that far surpass those of other Pokémon, but details about Koraidon and Miraidon are still shrouded in mystery.",
-
-
-		"type": [
-			"???"
-		],
-
-		"image": {
-			"sprite": "/root"
-		}
-
-	},
-
-
-
-	{
-		"id": 11,
-		"name": {
-			"english": "Miraidon"
-		},
-
-		"desc": "Koraidon is a Legendary Pokémon you can meet in Pokémon Scarlet, and Miraidon is a Legendary Pokémon you can meet in Pokémon Violet. These two Pokémon are said to have powers that far surpass those of other Pokémon, but details about Koraidon and Miraidon are still shrouded in mystery.",
-
-
-		"type": [
-			"???"
-		],
-
-		"image": {
-			"sprite": "/root"
-		}
-
-	}
-
-
-
-
-
+[
+   {
+      "id":1,
+      "name":{
+         "english":"Sprigatito"
+      },
+      "type":[
+         "Grass"
+      ],
+      "desc":"Capricious and attention seeking, it may sulk if it sees its Trainer giving attention to a Pokémon other than itself.",
+      "base":{
+         "height":1.4,
+         "weight":9,
+         "ability":"Overgrow",
+         "category":"Grass Cat Pokémon",
+         "image":{
+            "sprite":"/root"
+         }
+      }
+   },
+   {
+      "id":2,
+      "name":{
+         "english":"Fuecoco"
+      },
+      "type":[
+         "Fire"
+      ],
+      "desc":"Fuecoco is laid-back and does things at its own pace. It loves to eat, and it will sprint toward any food it finds with a glint in its eye.",
+      "base":{
+         "height":1.4,
+         "weight":21.6,
+         "ability":"Blaze",
+         "category":"Fire Croc Pokémon",
+         "image":{
+            "sprite":"/root"
+         }
+      }
+   },
+   {
+      "id":3,
+      "name":{
+         "english":"Quaxly"
+      },
+      "type":[
+         "Water"
+      ],
+      "desc":"This serious-mannered Pokémon will follow in its Trainer’s wake. It’s tidy, and it especially dislikes getting its head dirty.",
+      "base":{
+         "height":1.8,
+         "weight":13.4,
+         "ability":"Torrent",
+         "category":"Duckling Pokémon",
+         "image":{
+            "sprite":"/root"
+         }
+      }
+   },
+   {
+      "id":4,
+      "name":{
+         "english":"Cetitan"
+      },
+      "type":[
+         "Ice"
+      ],
+      "desc":"Cetitan need to have tough muscles to be able to support their immense bodies, and physical attacks using their bodies have incredible power. They also migrate around the snowy regions, protected by a thick layer of subcutaneous fat.",
+      "base":{
+         "height":14.9,
+         "weight":1543.2,
+         "ability":"Thick Fat / Slush Rush",
+         "category":"Terra Whale Pokémon​",
+         "image":{
+            "sprite":"/root"
+         }
+      }
+   },
+   {
+      "id":5,
+      "name":{
+         "english":"Fidough"
+      },
+      "type":[
+         "Fairy"
+      ],
+      "desc":"Fidough’s moist, smooth skin has elastic qualities and is both firm and soft at the same time. When these Pokémon become excited, they intimidate their opponents by puffing up their bodies to appear bigger.​",
+      "base":{
+         "height":1,
+         "weight":24,
+         "ability":"Own Tempo",
+         "category":"Puppy Pokémon​",
+         "image":{
+            "sprite":"/root"
+         }
+      }
+   },
+   {
+      "id":6,
+      "name":{
+         "english":"Lechonk"
+      },
+      "type":[
+         "Normal"
+      ],
+      "desc":"Lechonk is one of the Pokémon used by Nemona, your friend.",
+      "base":{
+         "height":1.8,
+         "weight":22.5,
+         "ability":"Aroma Veil / Gluttony",
+         "category":"Hog Pokémon​",
+         "image":{
+            "sprite":"/root"
+         }
+      }
+   },
+   {
+      "id":7,
+      "name":{
+         "english":"Paldean Wooper"
+      },
+      "type":[
+         "Poison",
+         "Ground"
+      ],
+      "desc":"In ancient times, Wooper lived underwater in the Paldea region. But it seems after losing in a struggle for territory, they began living in bogs on land.​To keep from drying out while living on land, they began to cover their bodies with a poisonous film.",
+      "base":{
+         "height":1.4,
+         "weight":24.3,
+         "ability":"Poison Point / Water Absorb",
+         "category":"Poison Fish Pokémon​",
+         "image":{
+            "sprite":"/root"
+         }
+      }
+   },
+   {
+      "id":8,
+      "name":{
+         "english":"Pawmi"
+      },
+      "type":[
+         "Electric"
+      ],
+      "desc":"Pawmi is one of the Pokémon used by Nemona, your friend.",
+      "base":{
+         "height":1,
+         "weight":5.5,
+         "ability":"Static / Natural Cure",
+         "category":"Mouse Pokémon​",
+         "image":{
+            "sprite":"/root"
+         }
+      }
+   },
+   {
+      "id":9,
+      "name":{
+         "english":"Smoliv"
+      },
+      "type":[
+         "Grass",
+         "Normal"
+      ],
+      "desc":"Smoliv is one of the Pokémon used by Nemona, your friend.",
+      "base":{
+         "height":1,
+         "weight":14.3,
+         "ability":"Early Bird",
+         "category":"Olive Pokémon​",
+         "image":{
+            "sprite":"/root"
+         }
+      }
+   },
+   {
+      "id":10,
+      "name":{
+         "english":"Koraidon"
+      },
+      "desc":"Koraidon is a Legendary Pokémon you can meet in Pokémon Scarlet, and Miraidon is a Legendary Pokémon you can meet in Pokémon Violet. These two Pokémon are said to have powers that far surpass those of other Pokémon, but details about Koraidon and Miraidon are still shrouded in mystery.",
+      "type":[
+         "???"
+      ],
+      "image":{
+         "sprite":"/root"
+      }
+   },
+   {
+      "id":11,
+      "name":{
+         "english":"Miraidon"
+      },
+      "desc":"Koraidon is a Legendary Pokémon you can meet in Pokémon Scarlet, and Miraidon is a Legendary Pokémon you can meet in Pokémon Violet. These two Pokémon are said to have powers that far surpass those of other Pokémon, but details about Koraidon and Miraidon are still shrouded in mystery.",
+      "type":[
+         "???"
+      ],
+      "image":{
+         "sprite":"/root"
+      }
+   }
 ]
