@@ -13,7 +13,7 @@
          "ability":"Overgrow",
          "category":"Grass Cat Pokémon",
          "image":{
-            "sprite":"/root"
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/sprigatito.png"
          }
       }
    },
@@ -32,7 +32,7 @@
          "ability":"Blaze",
          "category":"Fire Croc Pokémon",
          "image":{
-            "sprite":"/root"
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/fuecoco.png"
          }
       }
    },
@@ -51,7 +51,7 @@
          "ability":"Torrent",
          "category":"Duckling Pokémon",
          "image":{
-            "sprite":"/root"
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/quaxly.png"
          }
       }
    },
@@ -70,7 +70,7 @@
          "ability":"Thick Fat / Slush Rush",
          "category":"Terra Whale Pokémon",
          "image":{
-            "sprite":"/root"
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/cetitan.png"
          }
       }
    },
@@ -89,7 +89,7 @@
          "ability":"Own Tempo",
          "category":"Puppy Pokémon",
          "image":{
-            "sprite":"/root"
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/fidough.png"
          }
       }
    },
@@ -108,7 +108,7 @@
          "ability":"Aroma Veil / Gluttony",
          "category":"Hog Pokémon",
          "image":{
-            "sprite":"/root"
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/lechonk.png"
          }
       }
    },
@@ -128,7 +128,7 @@
          "ability":"Poison Point / Water Absorb",
          "category":"Poison Fish Pokémon",
          "image":{
-            "sprite":"/root"
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/paldeanwooper.png"
          }
       }
    },
@@ -147,7 +147,7 @@
          "ability":"Static / Natural Cure",
          "category":"Mouse Pokémon",
          "image":{
-            "sprite":"/root"
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/pawmi.png"
          }
       }
    },
@@ -167,7 +167,7 @@
          "ability":"Early Bird",
          "category":"Olive Pokémon",
          "image":{
-            "sprite":"/root"
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/smoliv.png"
          }
       }
    },
@@ -186,7 +186,7 @@
          "ability":"???",
          "category":"???",
          "image":{
-            "sprite":"/root"
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/koraidon.png"
          }
       }
    },
@@ -205,7 +205,7 @@
          "ability":"???",
          "category":"???",
          "image":{
-            "sprite":"/root"
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/miraidon.png"
          }
       }
    }
