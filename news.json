@@ -1,95 +1,79 @@
 [
-	   {"id": 0,
+  {
+    "id": 0,
     "image": "https://i.ytimg.com/vi/3TgxKhyk3bk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCy-qb48_cDaNRIpwT27XxQo69N7A",
-	"date": "August 3",
-	"text": "Welcome to the Paldea region!",
-	"link": "https://youtu.be/mZf-vIpVDLo"
-
+    "date": "August 3",
+    "text": "Welcome to the Paldea region!",
+    "link": "https://youtu.be/mZf-vIpVDLo"
   },
-	
-
-	     {"id": 1,
+  {
+    "id": 1,
     "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/world-map-news.jpg",
-	"date": "August 3",
-	"text": "The Sprawling Landscapes and Vibrant Towns Woven into the Paldea Region",
-	"link": "https://scarletviolet.pokemon.com/en-us/news/the_paldea_region/"
-
+    "date": "August 3",
+    "text": "The Sprawling Landscapes and Vibrant Towns Woven into the Paldea Region",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/the_paldea_region/"
   },
-	
-	
-	
-	
-	
-     {"id": 2,
+  {
+    "id": 2,
     "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/key-visual.jpg",
-	"date": "August 3",
-	"text": "New Forms Discovered for the Legendary Pokémon Koraidon and Miraidon",
-	"link": "https://scarletviolet.pokemon.com/en-us/news/legendary_pokemon/"
-
+    "date": "August 3",
+    "text": "New Forms Discovered for the Legendary Pokémon Koraidon and Miraidon",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/legendary_pokemon/"
   },
-  
-     {"id": 3,
+  {
+    "id": 3,
     "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/p14_04.jpg",
-	"date": "August 3",
-	"text": "Fight Alongside Friends within the Time Limit in Tera Raid Battles",
-	"link": "https://scarletviolet.pokemon.com/en-us/news/tera_raid_battles/"
-
+    "date": "August 3",
+    "text": "Fight Alongside Friends within the Time Limit in Tera Raid Battles",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/tera_raid_battles/"
   },
-  
-  
-    {"id": 4,
+  {
+    "id": 4,
     "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/p17_01.jpg",
-	"date": "August 3",
-	"text": "The Oldest School in the Paldea Region",
-	"link": "https://scarletviolet.pokemon.com/en-us/news/the_oldest_school/"
-
+    "date": "August 3",
+    "text": "The Oldest School in the Paldea Region",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/the_oldest_school/"
   },
-  
-  
-      {"id": 5,
+  {
+    "id": 5,
     "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/terestal-art-news.jpg",
-	"date": "August 3",
-	"text": "Pokémon Shine and Glimmer Like Gems Thanks to the Terastal Phenomenon",
-	"link": "https://scarletviolet.pokemon.com/en-us/news/terastal_phenomenon/"
-
+    "date": "August 3",
+    "text": "Pokémon Shine and Glimmer Like Gems Thanks to the Terastal Phenomenon",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/terastal_phenomenon/"
   },
-  
-        {"id": 6,
+  {
+    "id": 6,
     "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/p24_03.jpg",
-	"date": "August 3",
-	"text": "Enjoy Pokémon with Friends",
-	"link": "https://scarletviolet.pokemon.com/en-us/news/multiplayer/"
-
+    "date": "August 3",
+    "text": "Enjoy Pokémon with Friends",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/multiplayer/"
   },
-        {"id": 7,
+  {
+    "id": 7,
     "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/p20_01.jpg",
-	"date": "August 3",
-	"text": "The Story Unfolds the Way You Want It Tos",
-	"link": "https://scarletviolet.pokemon.com/en-us/news/the_story/"
-
+    "date": "August 3",
+    "text": "The Story Unfolds the Way You Want It Tos",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/the_story/"
   },
-        {"id": 8,
+  {
+    "id": 8,
     "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/p30_01.jpg",
-	"date": "August 3",
-	"text": "Receive a Special Pikachu as an Early-Purchase Bonus",
-	"link": "https://scarletviolet.pokemon.com/en-us/news/pre_order/"
-
+    "date": "August 3",
+    "text": "Receive a Special Pikachu as an Early-Purchase Bonus",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/pre_order/"
   },
-        {"id": 9,
+  {
+    "id": 9,
     "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/p26_01.jpg",
-	"date": "August 3",
-	"text": "Look the Way You Want to When You Explore the Paldea Region",
-	"link": "https://scarletviolet.pokemon.com/en-us/news/appearance/"
-
+    "date": "August 3",
+    "text": "Look the Way You Want to When You Explore the Paldea Region",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/appearance/"
   },
-        {"id": 10,
+  {
+    "id": 10,
     "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pcenter_backpack.jpg",
-	"date": "August 3",
-	"text": "Get this unique in-game accessory when you pre-order on Pokemon Center!",
-	"link": "https://scarletviolet.pokemon.com/en-us/news/pcenter_backpack/"
-
+    "date": "August 3",
+    "text": "Get this unique in-game accessory when you pre-order on Pokemon Center!",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/pcenter_backpack/"
   }
-  
-
-  
-  ]
+]
