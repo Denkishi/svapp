@@ -1,11 +1,30 @@
 [
   {
     "id": 0,
-    "image": "https://i.ytimg.com/vi/3TgxKhyk3bk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCy-qb48_cDaNRIpwT27XxQo69N7A",
-    "date": "August 3",
-    "text": "Welcome to the Paldea region!",
-    "link": "https://youtu.be/mZf-vIpVDLo"
+    "image": "https://i.ytimg.com/vi/O6zFq5nd0tU/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCCeI9G8TZTxEx5URKBBRNE-AFO7g",
+    "date": "August 21",
+    "text": "Competitive Play Trailer | Pokémon Scarlet and Pokémon Violet",
+    "link": "https://youtu.be/O6zFq5nd0tU"
   },
+  
+    {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_21/p04_07.jpg",
+    "date": "August 21",
+    "text": "Master Using the Terastal Phenomenon in Battle!",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/master_terastal/"
+  },
+  
+    {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_21/p05_03.jpg",
+    "date": "August 21",
+    "text": "New Items That Can Make Battles Even More Exciting",
+    "link": "https://scarletviolet.pokemon.com/en-us/news/new_items/"
+  },
+  
+  
+  
   {
     "id": 1,
     "image": "https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/world-map-news.jpg",
