@@ -171,6 +171,43 @@
          }
       }
    },
+   
+      {
+      "id":9,
+      "name":{
+         "english":"Cyclizar"
+      },
+      "type":[
+         "Dragon",
+         "Normal"
+      ],
+      "desc":"Cyclizar can sprint at over 70 mph while carrying a human. Its extremely hard head and thick, lithe tail are not only useful for maintaining balance and absorbing shocks while sprinting—they also provide effective ways to attack during battles.",
+      "base":{
+         "height":"5.3",
+         "weight":"138.9",
+         "ability":"Shed Skin",
+         "category":"Mount Pokémon",
+         "image":{
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/cyclizar.png"
+         }
+      }
+   },
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    {
       "id":10,
       "name":{
