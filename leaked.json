@@ -1,0 +1,726 @@
+{
+ "pokedex_names": [
+  {
+   "dex": "#50",
+   "name": "Diglett",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/50.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ground.png"
+    }
+   ]
+  },
+  {
+   "dex": "#51",
+   "name": "Dugtrio",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/51.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ground.png"
+    }
+   ]
+  },
+  {
+   "dex": "#56",
+   "name": "Mankey",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/56.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fighting.png"
+    }
+   ]
+  },
+  {
+   "dex": "#57",
+   "name": "Primeape",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/57.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fighting.png"
+    }
+   ]
+  },
+  {
+   "dex": "#96",
+   "name": "Drowzee",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/96.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Psychic.png"
+    }
+   ]
+  },
+  {
+   "dex": "#97",
+   "name": "Hypno",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/97.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Psychic.png"
+    }
+   ]
+  },
+  {
+   "dex": "#109",
+   "name": "Koffing",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/109.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Poison.png"
+    }
+   ]
+  },
+  {
+   "dex": "#110",
+   "name": "Weezing",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/110.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Poison.png"
+    }
+   ]
+  },
+  {
+   "dex": "#128",
+   "name": "Tauros",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/128.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Normal.png"
+    }
+   ]
+  },
+  {
+   "dex": "#132",
+   "name": "Ditto",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/132.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Normal.png"
+    }
+   ]
+  },
+  {
+   "dex": "#185",
+   "name": "Sudowoodo",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/185.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Rock.png"
+    }
+   ]
+  },
+  {
+   "dex": "#191",
+   "name": "Sunkern",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/191.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Grass.png"
+    }
+   ]
+  },
+  {
+   "dex": "#192",
+   "name": "Sunflora",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/192.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Grass.png"
+    }
+   ]
+  },
+  {
+   "dex": "#196",
+   "name": "Espeon",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/196.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Psychic.png"
+    }
+   ]
+  },
+  {
+   "dex": "#197",
+   "name": "Umbreon",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/197.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dark.png"
+    }
+   ]
+  },
+  {
+   "dex": "#206",
+   "name": "Dunsparce",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/206.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Normal.png"
+    }
+   ]
+  },
+  {
+   "dex": "#214",
+   "name": "Heracross",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/214.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Bug.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fighting.png"
+    }
+   ]
+  },
+  {
+   "dex": "#216",
+   "name": "Teddiursa",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/216.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Normal.png"
+    }
+   ]
+  },
+  {
+   "dex": "#217",
+   "name": "Ursaring",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/217.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Normal.png"
+    }
+   ]
+  },
+  {
+   "dex": "#225",
+   "name": "Delibird",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/225.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ice.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Flying.png"
+    }
+   ]
+  },
+  {
+   "dex": "#307",
+   "name": "Meditite",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/307.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fighting.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Psychic.png"
+    }
+   ]
+  },
+  {
+   "dex": "#308",
+   "name": "Medicham",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/308.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fighting.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Psychic.png"
+    }
+   ]
+  },
+  {
+   "dex": "#322",
+   "name": "Numel",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/322.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fire.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ground.png"
+    }
+   ]
+  },
+  {
+   "dex": "#323",
+   "name": "Camerupt",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/323.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fire.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ground.png"
+    }
+   ]
+  },
+  {
+   "dex": "#339",
+   "name": "Barboach",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/339.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Water.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ground.png"
+    }
+   ]
+  },
+  {
+   "dex": "#340",
+   "name": "Whiscash",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/340.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Water.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ground.png"
+    }
+   ]
+  },
+  {
+   "dex": "#357",
+   "name": "Tropius",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/357.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Grass.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Flying.png"
+    }
+   ]
+  },
+  {
+   "dex": "#438",
+   "name": "Bonsly",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/438.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Rock.png"
+    }
+   ]
+  },
+  {
+   "dex": "#443",
+   "name": "Gible",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/443.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dragon.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ground.png"
+    }
+   ]
+  },
+  {
+   "dex": "#444",
+   "name": "Gabite",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/444.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dragon.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ground.png"
+    }
+   ]
+  },
+  {
+   "dex": "#445",
+   "name": "Garchomp",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/445.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dragon.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ground.png"
+    }
+   ]
+  },
+  {
+   "dex": "#459",
+   "name": "Snover",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/459.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Grass.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ice.png"
+    }
+   ]
+  },
+  {
+   "dex": "#460",
+   "name": "Abomasnow",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/460.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Grass.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ice.png"
+    }
+   ]
+  },
+  {
+   "dex": "#470",
+   "name": "Leafeon",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/470.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Grass.png"
+    }
+   ]
+  },
+  {
+   "dex": "#471",
+   "name": "Glaceon",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/471.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ice.png"
+    }
+   ]
+  },
+  {
+   "dex": "#590",
+   "name": "Foongus",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/590.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Grass.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Poison.png"
+    }
+   ]
+  },
+  {
+   "dex": "#591",
+   "name": "Amoonguss",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/591.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Grass.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Poison.png"
+    }
+   ]
+  },
+  {
+   "dex": "#624",
+   "name": "Pawniard",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/624.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dark.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Steel.png"
+    }
+   ]
+  },
+  {
+   "dex": "#625",
+   "name": "Bisharp",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/625.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dark.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Steel.png"
+    }
+   ]
+  },
+  {
+   "dex": "#636",
+   "name": "Larvesta",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/636.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Bug.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fire.png"
+    }
+   ]
+  },
+  {
+   "dex": "#637",
+   "name": "Volcarona",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/637.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Bug.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fire.png"
+    }
+   ]
+  },
+  {
+   "dex": "#704",
+   "name": "Goomy",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/704.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dragon.png"
+    }
+   ]
+  },
+  {
+   "dex": "#705",
+   "name": "Sliggoo",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/705.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dragon.png"
+    }
+   ]
+  },
+  {
+   "dex": "#706",
+   "name": "Goodra",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/706.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dragon.png"
+    }
+   ]
+  },
+  {
+   "dex": "#707",
+   "name": "Klefki",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/707.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Steel.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fairy.png"
+    }
+   ]
+  },
+  {
+   "dex": "#739",
+   "name": "Crabrawler",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/739.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fighting.png"
+    }
+   ]
+  },
+  {
+   "dex": "#740",
+   "name": "Crabominable",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/740.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fighting.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ice.png"
+    }
+   ]
+  },
+  {
+   "dex": "#741",
+   "name": "Oricorio",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/741.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fire.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Flying.png"
+    }
+   ]
+  },
+  {
+   "dex": "#757",
+   "name": "Salandit",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/757.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Poison.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fire.png"
+    }
+   ]
+  },
+  {
+   "dex": "#758",
+   "name": "Salazzle",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/758.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Poison.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fire.png"
+    }
+   ]
+  },
+  {
+   "dex": "#775",
+   "name": "Komala",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/775.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Normal.png"
+    }
+   ]
+  },
+  {
+   "dex": "#778",
+   "name": "Mimikyu",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/778.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ghost.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fairy.png"
+    }
+   ]
+  },
+  {
+   "dex": "#821",
+   "name": "Rookidee",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/821.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Flying.png"
+    }
+   ]
+  },
+  {
+   "dex": "#822",
+   "name": "Corvisquire",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/822.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Flying.png"
+    }
+   ]
+  },
+  {
+   "dex": "#823",
+   "name": "Corviknight",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/823.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Flying.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Steel.png"
+    }
+   ]
+  },
+  {
+   "dex": "#859",
+   "name": "Impidimp",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/859.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dark.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fairy.png"
+    }
+   ]
+  },
+  {
+   "dex": "#860",
+   "name": "Morgrem",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/860.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dark.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fairy.png"
+    }
+   ]
+  },
+  {
+   "dex": "#861",
+   "name": "Grimmsnarl",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/861.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dark.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Fairy.png"
+    }
+   ]
+  },
+  {
+   "dex": "#885",
+   "name": "Dreepy",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/885.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dragon.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ghost.png"
+    }
+   ]
+  },
+  {
+   "dex": "#886",
+   "name": "Drakloak",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/886.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dragon.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ghost.png"
+    }
+   ]
+  },
+  {
+   "dex": "#887",
+   "name": "Dragapult",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/887.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Dragon.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ghost.png"
+    }
+   ]
+  },
+  {
+   "dex": "#901",
+   "name": "Ursaluna",
+   "artwork": "https://www.makio.it/pokemon/sv-returning/dex-art/901.png",
+   "type": [
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Ground.png"
+    },
+    {
+     "type": "https://www.makio.it/pokemon/src/type/Normal.png"
+    }
+   ]
+  }
+ ]
+}
