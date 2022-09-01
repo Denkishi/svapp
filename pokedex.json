@@ -194,6 +194,26 @@
    },
    
    
+         {
+      "id":9,
+      "name":{
+         "english":"Grafaiai"
+      },
+      "type":[
+         "Poison",
+         "Normal"
+      ],
+      "desc":"Grafaiai is a moody Pokémon with a fastidious disposition. It doesn’t form packs, preferring to roam alone. It’s constantly caught up in territorial struggles with other Pokémon.",
+      "base":{
+         "height":"2.4",
+         "weight":"60",
+         "ability":"Unburden / Poison Touch",
+         "category":"Toxic Monkey Pokémon",
+         "image":{
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_21/grafaiai.png"
+         }
+      }
+   },
    
    
    
