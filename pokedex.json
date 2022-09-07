@@ -216,8 +216,69 @@
    },
    
    
+   {
+      "id":9,
+      "name":{
+         "english":"Armarouge"
+      },
+      "type":[
+         "Fire",
+         "Psychic"
+      ],
+      "desc":"Armarouge’s set of armor belonged to a distinguished warrior, and is the source of the energy used for its Psychic-type moves. It also uses the psychic capabilities of this armor to control the fire energy within its body and unleash attacks.",
+      "base":{
+         "height":"4.11",
+         "weight":"187.4",
+         "ability":"Flash Fire",
+         "category":"Fire Warrior Pokémon",
+         "image":{
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/armarouge.png"
+         }
+      }
+   },
    
    
+    {
+      "id":9,
+      "name":{
+         "english":"Ceruledge"
+      },
+      "type":[
+         "Fire",
+         "Ghost"
+      ],
+      "desc":"Ceruledge dons an old set of armor steeped in grudges and wields blades made of fire and ghost energy. In battle, these blades transform into great swords to increase Ceruledge’s power. Cuts from these great swords leave wounds from which life energy will flow.",
+      "base":{
+         "height":"5.3",
+         "weight":"136,7,
+         "ability":"Flash Fire",
+         "category":"Fire Blades Pokémon",
+         "image":{
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/ceruledge.png"
+         }
+      }
+   },
+   
+   
+   {
+      "id":9,
+      "name":{
+         "english":"Klawf"
+      },
+      "type":[
+         "Rock"
+      ],
+      "desc":"A Pokémon with powerful claws.",
+      "base":{
+         "height":"4.3",
+         "weight":"174,2,
+         "ability":"Anger Shell/Shell Armor",
+         "category":"Ambush Pokémon",
+         "image":{
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/klawf.png"
+         }
+      }
+   },
    
    
    
