@@ -250,7 +250,7 @@
       "desc":"Ceruledge dons an old set of armor steeped in grudges and wields blades made of fire and ghost energy. In battle, these blades transform into great swords to increase Ceruledge’s power. Cuts from these great swords leave wounds from which life energy will flow.",
       "base":{
          "height":"5.3",
-         "weight":"136,7,
+         "weight":"136,7",
          "ability":"Flash Fire",
          "category":"Fire Blades Pokémon",
          "image":{
@@ -271,7 +271,7 @@
       "desc":"A Pokémon with powerful claws.",
       "base":{
          "height":"4.3",
-         "weight":"174,2,
+         "weight":"174,2",
          "ability":"Anger Shell/Shell Armor",
          "category":"Ambush Pokémon",
          "image":{
