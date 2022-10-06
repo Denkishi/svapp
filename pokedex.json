@@ -290,7 +290,7 @@
       "type":[
          "Water"
       ],
-      "desc":"AIt’s said that Wiglett’s resemblance to Diglett might be a mere coincidence—a result of its adaptation to its environment.​",
+      "desc":"It’s said that Wiglett’s resemblance to Diglett might be a mere coincidence—a result of its adaptation to its environment.​",
       "base":{
          "height":"3.11",
          "weight":"4",
@@ -302,6 +302,29 @@
       }
    },
    
+   
+   
+   
+         {
+      "id":9,
+      "name":{
+         "english":"Farigiraf"
+      },
+      "type":[
+         "Normal",
+        "Psychic"
+      ],
+      "desc":"Girafarig living in the Paldea region will evolve into this Pokémon.",
+      "base":{
+         "height":"10.6",
+         "weight":"352.7",
+         "ability":"Cud Chew / Armor Tail",
+         "category":"Long Neck Pokémon",
+         "image":{
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/pokemon-farigiraf-2x.png"
+         }
+      }
+   },
    
    
    
