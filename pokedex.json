@@ -328,6 +328,33 @@
    
    
    
+            {
+      "id":9,
+      "name":{
+         "english":"Bellibolt"
+      },
+      "type":[
+        "Electric"
+      ],
+      "desc":"Bellibolt’s Ability, Electromorphosis, is a new Ability appearing for the first time in these titles. Bellibolt becomes charged when hit by an attack, boosting the power of the next Electric-type move it uses.",
+      "base":{
+         "height":"3.11",
+         "weight":"249.1",
+         "ability":"Electromorphosis / Static",
+         "category":"EleFrog Pokémon",
+         "image":{
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/pokemon-bellibolt.png"
+         }
+      }
+   },
+   
+   
+   
+   
+   
+   
+   
+   
    
    
    
