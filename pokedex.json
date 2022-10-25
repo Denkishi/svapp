@@ -350,6 +350,27 @@
    
    
    
+         {
+      "id":9,
+      "name":{
+         "english":"Greavard"
+      },
+      "type":[
+         "Ghost"
+      ],
+      "desc":"It has powerful jaws that can shatter bones—a single bite from Greavard can be grievous!",
+      "base":{
+         "height":"2",
+         "weight":"77.2",
+         "ability":"Pickup",
+         "category":"Ghost Dog Pokémon",
+         "image":{
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/pokemon-greavard.png"
+         }
+      }
+   },
+   
+   
    
    
    
