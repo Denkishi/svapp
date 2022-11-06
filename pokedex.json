@@ -371,10 +371,28 @@
    },
    
    
+            {
+      "id":9,
+      "name":{
+         "english":"Gimmighoul"
+      },
+      "type":[
+         "Ghost"
+      ],
+      "desc":"It seems that Gimmighoul has a second form called Roaming Form Gimmighoul. This kind of Gimmighoul doesn’t hide in a treasure chest. It’s small, carries a single coin on its back, and can be found hiding all over Paldea. However, since they run away as soon as a person approaches, it seems not a single Trainer in Paldea has ever managed to catch one.",
+      "base":{
+         "height":"1",
+         "weight":"11",
+         "ability":"Rattled",
+         "category":"Coin Chest Pokémon",
+         "image":{
+            "sprite":"https://raw.githubusercontent.com/Denkishi/svapp/main/_images/news/aug_3/pkmn/pokemon_gimmighoul.png"
+         }
+      }
+   },
    
    
-   
-   
+
    
    
    
